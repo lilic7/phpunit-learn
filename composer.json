@@ -1,0 +1,13 @@
+{
+    "name": "vendor/phpunit-learn",
+    "description": "Description of project phpunit-learn.",
+    "authors": [
+        {
+            "name": "THT",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "dev-master"
+    }
+}
